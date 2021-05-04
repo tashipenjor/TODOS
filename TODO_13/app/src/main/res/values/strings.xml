@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Todo-13</string>
+    <string-array name="lists">
+        <item>Please select your Option</item>
+        <item>Apple </item>
+        <item>Mango </item>
+        <item>Orange</item>
+        <item>Ground Apple </item>
+
+    </string-array>
+</resources>
