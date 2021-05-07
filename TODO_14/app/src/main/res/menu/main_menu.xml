@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:title="@string/listone"
+    android:id="@+id/one"
+    android:orderInCategory="10"
+    app:showAsAction="never"/>
+
+
+
+    <item
+        android:title="@string/listtow"
+        android:id="@+id/two"
+        android:orderInCategory="13"
+        app:showAsAction="never"/>
+    <item
+        android:title="@string/listthree"
+        android:id="@+id/three"
+        android:orderInCategory="20"
+        app:showAsAction="never"/>
+    <item
+        android:title="@string/listfour"
+        android:id="@+id/four"
+        android:orderInCategory="40"
+        app:showAsAction="never"/>
+    <item
+        android:title="Home"
+        android:id="@+id/four5"
+        android:orderInCategory="40"
+        android:icon="@drawable/ic_baseline_home_24"
+        app:showAsAction="always"/>
+
+
+</menu>

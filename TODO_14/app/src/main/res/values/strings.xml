@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Todo-14</string>
+    <string name="listone">Apple</string>
+    <string name="listtow">Mango</string>
+    <string name="listthree">Orange</string>
+    <string name="listfour">Banana</string>
+    <string-array name="lists">
+        <item>Please select your Option</item>
+        <item>Apple </item>
+        <item>Mango </item>
+        <item>Orange</item>
+        <item>Ground Apple </item>
+
+    </string-array>
+</resources>
