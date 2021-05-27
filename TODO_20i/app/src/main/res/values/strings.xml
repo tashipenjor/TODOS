@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">communication-Activity1-To-Activity2</string>
+    <string name="btn1">send</string>
+    <string name="btn2">reply</string>
+    <string name="temptext1">Input Message</string>
+    <string name="temptext2">Return Message</string>
+</resources>
